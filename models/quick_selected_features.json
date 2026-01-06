@@ -1,0 +1,1 @@
+["diagnosis", "severity", "severity_score", "is_severe", "severity_risk_multiplier", "has_previous_treatment", "treatment_complexity", "potential_treatment_failure", "treatment_severity_interaction", "comprehensive_risk_score", "severity_score_zscore", "recovery_likelihood"]
